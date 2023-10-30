@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 public class HitungVolumeBangunRuang {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -100,3 +101,6 @@ public class HitungVolumeBangunRuang {
 }
 
 
+ class hitungbalok{
+
+}
